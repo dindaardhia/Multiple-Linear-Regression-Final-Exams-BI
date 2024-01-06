@@ -1,0 +1,12 @@
+name: MultipleLinearRegression
+title: MultipleLinearRegression
+username: dindaardhia
+account: dindaardhia
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10877154
+bundleId: 8115911
+url: https://dindaardhia.shinyapps.io/MultipleLinearRegression/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
